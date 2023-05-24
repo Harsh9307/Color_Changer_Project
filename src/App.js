@@ -20,9 +20,8 @@ function App() {
           setColorValue={setColorValue}
       />
     </div> 
-
-
-        
+    
+    
           
         
         
